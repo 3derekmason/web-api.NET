@@ -18,7 +18,9 @@ To get a local copy of your own up and running follow these steps:
 
 1. Fork this repo and clone to a local directory:
 
-   > `git clone https://github.com/3derekmason/web-api.NET.git` > `cd web-api.NET`
+   > `git clone https://github.com/3derekmason/web-api.NET.git`
+
+   > `cd web-api.NET`
 
 2. Make sure you have downloaded `.NET 6.0`
 
